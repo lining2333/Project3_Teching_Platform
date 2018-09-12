@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+	/*background-image:url('../images/background.png');*/
+  background-color: #dbdbdb;
+}
+
+th{
+	border: 3px solid black;
+}
+td{
+	border: 3px solid black;
+}
+#table_Experiment{
+	/*background-color: #96FF7D;*/
+	background-color: #7DE4EF;
+	border: 3px solid black;
+}
+.daohang{
+  width: 137px;
+  height: 50px;
+  font-size: 16px;
+  font-family: 微软雅黑;
+  color: black;
+  background-color: #0066ff;
+  opacity: 0.9;
+}
+.navbar a{
+  color: white;
+  background-color: 0066ff;
+}
+.nav a:hover{
+  color: black;
+}
+/*#table_Game{
+	height: 500px;
+}*/
+#div_show {
+  /*margin: 10px auto;*/
+  margin-top: 10px;
+  margin-left: 350px;
+  width: 700px;
+  height: 400px;
+  position: relative;
+  /*border: 3px solid black;*/
+  border-radius: 10px;
+  /*background-image: url(images/shangdianbg.png);*/
+  background-color: #f3f3f3;
+}
+
+td{
+  border: 0;
+  width: 70px;
+}
+#div_show img{
+  border-radius: 10px;
+  width: 554px;
+  height: 304px;
+  margin-top: 30px;
+  margin-left: 70px;
+}
+#xinwen button:hover{
+  /*color: black;
+  background-color: white;*/
+}
+#xinwen li{
+  border-bottom: 1px dashed black; width: 400px;padding: 10px;
+}
+#question4{
+	line-height: 30px;
+	width: 10%;
+}
+.jiaoxue_Fontsize{
+	font-size: 16px;
+}
+.jiaoxue_Button{
+	 background-color: #708090;
+	 color: white;
+}
+.jiaoxue_Tianjia{
+	background-color: #7DE4EF;
+}
+#tianjia_Name{
+	padding: 2px;
+}
+#tianjia_Content{
+	padding: 2px;
+}
+.questions_Fontsize{
+	font-size: 20px;
+}
+.img_Show {
+  position: absolute;
+}
+
+#order_Imgs {
+  position: absolute;
+  /*list-style: none;*/
+  background-color: rgba(255,255,255,0.5);
+  left: 300px;
+  bottom: 0px;
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px;
+}
+ 
+.order_Img{
+  float: left;
+  text-align: center;
+  line-height: 20px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  overflow: hidden;
+  margin-right: 4px;
+  border-radius: 100%;
+  /*background-color: blue;*/
+}
+ .bg{
+	background-color: #0078D7;
+}
+.button{
+  position: absolute;
+  color: #fff;
+  top: 130px;
+  width: 40px;
+  height: 100px;
+  background-color: #773316;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+ 
+.button2{
+  position: absolute;
+  right: 10px;
+}
+ 
+.button:hover{
+  background-color: rgba(0,0,0,.7);
+}

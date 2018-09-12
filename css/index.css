@@ -1,0 +1,142 @@
+#huanying{
+	background-image: url(../images/info.png);
+	background-size: 100% 100%; 
+	width: 260px; height: 100px;
+    position: absolute; 
+    font-family: 微软雅黑;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: -80px;
+    margin-left: 790px;
+}
+#huanying1{
+	margin-left: 60px;
+	padding: 10px;
+	border-radius: 20px;
+	position: absolute;
+	margin-top: 3px;
+}
+#denglu{
+	border-radius:10px;
+    width: 310px;height: 250px;
+    margin-left: 25px;
+    margin-top: 10px;
+    position: absolute;
+    font-family: '微软雅黑';
+    text-align: center;
+    background-image: url(../images/shangdianbg.png);
+    background-color: #f3f3f3;
+}
+#shenfen{
+	width: 100px;height: 30px;
+	font-family: '微软雅黑'; 
+	font-size: 17px;
+	background-color: white;
+	line-height: 30px;
+	border: 2px solid #D49548;
+	border-radius: 10px;
+	color: black;
+	
+	margin-left: 0px;
+}
+#id{
+	width: 220px;height: 30px;
+	border: 2px solid #D49548;
+	border-radius: 10px;
+	line-height: 30px;
+	font-size: 15px;
+	margin-top: 15px;
+}
+#pwd{
+	width: 220px;height: 30px;
+	border: 2px solid #D49548;
+	border-radius: 10px;
+	line-height: 30px;
+	font-size: 15px;
+	margin-top: 20px;
+}
+#loginsubmit{
+	margin-top: 20px;
+	margin-left: 20px; 
+	width: 120px;height: 40px;
+	line-height: 40px;
+	background-color: #1C6098;
+	font-size: 20px; 
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	color: white;
+	font-weight: bold;
+}
+#sousuo_div{
+	border-radius:10px;
+    width: 310px;height: 120px;
+    margin-left: 25px;
+    margin-top: 280px;
+    position: absolute;
+    font-family: '微软雅黑';
+    text-align: center;
+    background-color: #B3AA8E;
+}
+#sousuo_input{
+	width: 200px;height: 30px;
+	border: 2px solid #33ffff;
+	border-radius: 10px;
+	line-height: 30px;
+	font-size: 15px;
+}
+#xinwen{
+	width: 460px;height: 390px;
+	background-color: #f3f3f3;
+	margin-left: 25px;
+	border-radius: 10px;
+	font-size: 16px;
+	float: left;
+}
+#xinwen_button{
+	width: 100px;height: 50px;
+	background-color: #ccc;
+	color: black;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+#jingsai_button{
+	width: 100px;height: 50px;
+	background-color: #0066ff;
+	color: white;
+	border-radius: 10px;
+}
+#paihang{
+	width: 220px;height: 390px;
+	background-color: #f3f3f3;
+	margin-left: 510px; 
+	border-radius: 10px;
+	font-size: 16px;
+	float: left;
+	position: absolute;
+}
+#fengcai_div{
+	width: 300px;height: 390px; 
+	margin-left: 750px;
+	background-color: #f3f3f3;
+	border-radius: 10px;
+}
+/*#jiaoshi_show{
+	background-image: url(../images/info.png);
+	background-size: 100% 100%; 
+	width: 280px; height: 100px;
+	position: absolute; 
+	font-family: 微软雅黑;
+	font-weight: bold;
+	font-size: 16px;
+	margin-top: 50px;
+	margin-left: 10px;
+}
+#jiaoshi_show1{
+	margin-left: 80px;
+
+	padding: 10px;
+	border-radius: 20px;
+	position: absolute;
+	margin-top: 3px;
+}*/
